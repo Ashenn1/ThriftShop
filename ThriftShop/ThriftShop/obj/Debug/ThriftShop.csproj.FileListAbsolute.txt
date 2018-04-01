@@ -1,0 +1,6 @@
+C:\Users\Soha Samad\Desktop\College\year 3\First Semester\Concepts of programming lang\Labs\Assign#3\Q2-c#\ThriftShop\ThriftShop\bin\Debug\ThriftShop.exe.config
+C:\Users\Soha Samad\Desktop\College\year 3\First Semester\Concepts of programming lang\Labs\Assign#3\Q2-c#\ThriftShop\ThriftShop\bin\Debug\ThriftShop.exe
+C:\Users\Soha Samad\Desktop\College\year 3\First Semester\Concepts of programming lang\Labs\Assign#3\Q2-c#\ThriftShop\ThriftShop\bin\Debug\ThriftShop.pdb
+C:\Users\Soha Samad\Desktop\College\year 3\First Semester\Concepts of programming lang\Labs\Assign#3\Q2-c#\ThriftShop\ThriftShop\obj\Debug\ThriftShop.csprojResolveAssemblyReference.cache
+C:\Users\Soha Samad\Desktop\College\year 3\First Semester\Concepts of programming lang\Labs\Assign#3\Q2-c#\ThriftShop\ThriftShop\obj\Debug\ThriftShop.exe
+C:\Users\Soha Samad\Desktop\College\year 3\First Semester\Concepts of programming lang\Labs\Assign#3\Q2-c#\ThriftShop\ThriftShop\obj\Debug\ThriftShop.pdb
